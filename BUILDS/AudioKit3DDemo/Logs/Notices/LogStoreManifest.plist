@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2737C3B7-C2BD-41F1-B692-4362EB75C7D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2737C3B7-C2BD-41F1-B692-4362EB75C7D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9zdGFxdWVcL0RldmVsb3BtZW50XC9HaXRIdWJcL0F1ZGlvS2l0M0REZW1vXC9BdWRpb0tpdDNERGVtby54Y29kZXByb2oifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>700617264.30207598</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews AudioKit3DDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>2737C3B7-C2BD-41F1-B692-4362EB75C7D3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
