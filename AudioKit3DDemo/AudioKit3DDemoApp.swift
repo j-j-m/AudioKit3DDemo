@@ -11,7 +11,7 @@ import SwiftUI
 struct AudioKit3DDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			AudioKit3DView()
         }
     }
 }

@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AudioKitEX",
+        "repositoryURL": "https://github.com/AudioKit/AudioKitEX",
+        "state": {
+          "branch": null,
+          "revision": "22183bcf7e8c6baf15e59c1126a4c541e044cec5",
+          "version": "5.5.2"
+        }
+      },
+      {
+        "package": "AudioKitUI",
+        "repositoryURL": "https://github.com/AudioKit/AudioKitUI",
+        "state": {
+          "branch": "main",
+          "revision": "5c41de4c021567e8d4f187f6d79d96dfcef704f6",
+          "version": null
+        }
+      },
+      {
+        "package": "Controls",
+        "repositoryURL": "https://github.com/AudioKit/Controls.git",
+        "state": {
+          "branch": null,
+          "revision": "5e1da73c34cfe60d5bdbd580dc395bd2da925191",
+          "version": "1.1.1"
+        }
+      },
+      {
+        "package": "Keyboard",
+        "repositoryURL": "https://github.com/AudioKit/Keyboard",
+        "state": {
+          "branch": "main",
+          "revision": "238ac6cf0f6efddfcd0ab8b41782377e2617d0a7",
+          "version": null
+        }
+      },
+      {
+        "package": "KissFFT",
+        "repositoryURL": "https://github.com/AudioKit/KissFFT",
+        "state": {
+          "branch": null,
+          "revision": "dd0636e151724b8ba2e0908eba4d99a6ff24d00c",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SoundpipeAudioKit",
+        "repositoryURL": "https://github.com/AudioKit/SoundpipeAudioKit",
+        "state": {
+          "branch": null,
+          "revision": "d178fabace96deb9b3a29a023937e2eb6c14c3bd",
+          "version": "5.6.0"
+        }
+      },
+      {
+        "package": "Tonic",
+        "repositoryURL": "https://github.com/AudioKit/Tonic.git",
+        "state": {
+          "branch": null,
+          "revision": "bd73003b0e6caa90fb1d71b57329b0d609b097ee",
+          "version": "1.0.10"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
