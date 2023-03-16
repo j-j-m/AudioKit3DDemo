@@ -19,39 +19,39 @@
 		31BA901F29C2949F00FCD505 /* AudioKitUI in Frameworks */ = {isa = PBXBuildFile; productRef = 31BA901E29C2949F00FCD505 /* AudioKitUI */; };
 		31BA906929C2986900FCD505 /* AudioKit3DView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA8FEC29C2922E00FCD505 /* AudioKit3DView.swift */; };
 		31BA906A29C2986A00FCD505 /* AudioKit3DView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA8FEC29C2922E00FCD505 /* AudioKit3DView.swift */; };
-		31BA909229C2989A00FCD505 /* searrl.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA906B29C2989A00FCD505 /* searrl.scnassets */; };
-		31BA909329C2989A00FCD505 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA906D29C2989A00FCD505 /* Colors.xcassets */; };
-		31BA909429C2989A00FCD505 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA906E29C2989A00FCD505 /* Assets.xcassets */; };
-		31BA909529C2989A00FCD505 /* TestAudioURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA906F29C2989A00FCD505 /* TestAudioURLs.swift */; };
-		31BA909629C2989A00FCD505 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907129C2989A00FCD505 /* Preview Assets.xcassets */; };
-		31BA909729C2989A00FCD505 /* stairwell.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907329C2989A00FCD505 /* stairwell.wav */; };
-		31BA909829C2989A00FCD505 /* dish.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907429C2989A00FCD505 /* dish.wav */; };
-		31BA909929C2989A00FCD505 /* Guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907629C2989A00FCD505 /* Guitar.mp3 */; };
-		31BA909A29C2989A00FCD505 /* clap_D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907729C2989A00FCD505 /* clap_D#1.wav */; };
-		31BA909B29C2989A00FCD505 /* Bass Synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907829C2989A00FCD505 /* Bass Synth.mp3 */; };
-		31BA909C29C2989A00FCD505 /* hi_tom_D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907929C2989A00FCD505 /* hi_tom_D2.wav */; };
-		31BA909D29C2989A00FCD505 /* Strings.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907A29C2989A00FCD505 /* Strings.mp3 */; };
-		31BA909E29C2989A00FCD505 /* alphabet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907B29C2989A00FCD505 /* alphabet.mp3 */; };
-		31BA909F29C2989A00FCD505 /* mid_tom_B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907C29C2989A00FCD505 /* mid_tom_B1.wav */; };
-		31BA90A029C2989A00FCD505 /* beat.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907D29C2989A00FCD505 /* beat.aiff */; };
-		31BA90A129C2989A00FCD505 /* Synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907E29C2989A00FCD505 /* Synth.mp3 */; };
-		31BA90A229C2989A00FCD505 /* closed_hi_hat_F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA907F29C2989A00FCD505 /* closed_hi_hat_F#1.wav */; };
-		31BA90A329C2989A00FCD505 /* bass_drum_C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908029C2989A00FCD505 /* bass_drum_C1.wav */; };
-		31BA90A429C2989A00FCD505 /* lo_tom_F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908129C2989A00FCD505 /* lo_tom_F1.wav */; };
-		31BA90A529C2989A00FCD505 /* Piano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908229C2989A00FCD505 /* Piano.mp3 */; };
-		31BA90A629C2989A00FCD505 /* open_hi_hat_A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908329C2989A00FCD505 /* open_hi_hat_A#1.wav */; };
-		31BA90A729C2989A00FCD505 /* Counting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908429C2989A00FCD505 /* Counting.mp3 */; };
-		31BA90A829C2989A00FCD505 /* snare_D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908529C2989A00FCD505 /* snare_D1.wav */; };
-		31BA90A929C2989A00FCD505 /* Cookbook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908729C2989A00FCD505 /* Cookbook.swift */; };
-		31BA90AA29C2989A00FCD505 /* PlayerControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908829C2989A00FCD505 /* PlayerControls.swift */; };
-		31BA90AB29C2989A00FCD505 /* CookbookKnob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908929C2989A00FCD505 /* CookbookKnob.swift */; };
-		31BA90AC29C2989A00FCD505 /* NavigationHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908A29C2989A00FCD505 /* NavigationHelpers.swift */; };
-		31BA90AD29C2989A00FCD505 /* CookbookKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908B29C2989A00FCD505 /* CookbookKeyboard.swift */; };
-		31BA90AE29C2989A00FCD505 /* ParameterRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908C29C2989A00FCD505 /* ParameterRow.swift */; };
-		31BA90AF29C2989A00FCD505 /* CallbackLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA908D29C2989A00FCD505 /* CallbackLoop.swift */; };
-		31BA90B029C2989A00FCD505 /* Demo.mid in Resources */ = {isa = PBXBuildFile; fileRef = 31BA908F29C2989A00FCD505 /* Demo.mid */; };
-		31BA90B129C2989A00FCD505 /* 4tracks.mid in Resources */ = {isa = PBXBuildFile; fileRef = 31BA909029C2989A00FCD505 /* 4tracks.mid */; };
-		31BA90B229C2989A00FCD505 /* CookbookCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA909129C2989A00FCD505 /* CookbookCommon.swift */; };
+		31BA90DA29C33FFA00FCD505 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90B429C33FFA00FCD505 /* Colors.xcassets */; };
+		31BA90DB29C33FFA00FCD505 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90B529C33FFA00FCD505 /* Assets.xcassets */; };
+		31BA90DC29C33FFA00FCD505 /* TestAudioURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90B629C33FFA00FCD505 /* TestAudioURLs.swift */; };
+		31BA90DD29C33FFA00FCD505 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90B829C33FFA00FCD505 /* Preview Assets.xcassets */; };
+		31BA90DE29C33FFA00FCD505 /* stairwell.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90BA29C33FFA00FCD505 /* stairwell.wav */; };
+		31BA90DF29C33FFA00FCD505 /* dish.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90BB29C33FFA00FCD505 /* dish.wav */; };
+		31BA90E029C33FFA00FCD505 /* Guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90BD29C33FFA00FCD505 /* Guitar.mp3 */; };
+		31BA90E129C33FFA00FCD505 /* clap_D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90BE29C33FFA00FCD505 /* clap_D#1.wav */; };
+		31BA90E229C33FFA00FCD505 /* Bass Synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90BF29C33FFA00FCD505 /* Bass Synth.mp3 */; };
+		31BA90E329C33FFA00FCD505 /* hi_tom_D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C029C33FFA00FCD505 /* hi_tom_D2.wav */; };
+		31BA90E429C33FFA00FCD505 /* Strings.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C129C33FFA00FCD505 /* Strings.mp3 */; };
+		31BA90E529C33FFA00FCD505 /* alphabet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C229C33FFA00FCD505 /* alphabet.mp3 */; };
+		31BA90E629C33FFA00FCD505 /* mid_tom_B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C329C33FFA00FCD505 /* mid_tom_B1.wav */; };
+		31BA90E729C33FFA00FCD505 /* beat.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C429C33FFA00FCD505 /* beat.aiff */; };
+		31BA90E829C33FFA00FCD505 /* Synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C529C33FFA00FCD505 /* Synth.mp3 */; };
+		31BA90E929C33FFA00FCD505 /* closed_hi_hat_F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C629C33FFA00FCD505 /* closed_hi_hat_F#1.wav */; };
+		31BA90EA29C33FFA00FCD505 /* bass_drum_C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C729C33FFA00FCD505 /* bass_drum_C1.wav */; };
+		31BA90EB29C33FFA00FCD505 /* lo_tom_F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C829C33FFA00FCD505 /* lo_tom_F1.wav */; };
+		31BA90EC29C33FFA00FCD505 /* Piano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90C929C33FFA00FCD505 /* Piano.mp3 */; };
+		31BA90ED29C33FFA00FCD505 /* open_hi_hat_A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90CA29C33FFA00FCD505 /* open_hi_hat_A#1.wav */; };
+		31BA90EE29C33FFA00FCD505 /* Counting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90CB29C33FFA00FCD505 /* Counting.mp3 */; };
+		31BA90EF29C33FFA00FCD505 /* snare_D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90CC29C33FFA00FCD505 /* snare_D1.wav */; };
+		31BA90F029C33FFA00FCD505 /* Cookbook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90CE29C33FFA00FCD505 /* Cookbook.swift */; };
+		31BA90F129C33FFA00FCD505 /* PlayerControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90CF29C33FFA00FCD505 /* PlayerControls.swift */; };
+		31BA90F229C33FFA00FCD505 /* CookbookKnob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D029C33FFA00FCD505 /* CookbookKnob.swift */; };
+		31BA90F329C33FFA00FCD505 /* NavigationHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D129C33FFA00FCD505 /* NavigationHelpers.swift */; };
+		31BA90F429C33FFA00FCD505 /* CookbookKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D229C33FFA00FCD505 /* CookbookKeyboard.swift */; };
+		31BA90F529C33FFA00FCD505 /* ParameterRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D329C33FFA00FCD505 /* ParameterRow.swift */; };
+		31BA90F629C33FFA00FCD505 /* CallbackLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D429C33FFA00FCD505 /* CallbackLoop.swift */; };
+		31BA90F729C33FFA00FCD505 /* Demo.mid in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90D629C33FFA00FCD505 /* Demo.mid */; };
+		31BA90F829C33FFA00FCD505 /* 4tracks.mid in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90D729C33FFA00FCD505 /* 4tracks.mid */; };
+		31BA90F929C33FFA00FCD505 /* CookbookCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31BA90D829C33FFA00FCD505 /* CookbookCommon.swift */; };
+		31BA90FA29C33FFA00FCD505 /* searrl.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 31BA90D929C33FFA00FCD505 /* searrl.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,39 +82,39 @@
 		31BA900129C2922F00FCD505 /* AudioKit3DDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioKit3DDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		31BA900529C2922F00FCD505 /* AudioKit3DDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioKit3DDemoUITests.swift; sourceTree = "<group>"; };
 		31BA900729C2922F00FCD505 /* AudioKit3DDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioKit3DDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		31BA906B29C2989A00FCD505 /* searrl.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = searrl.scnassets; path = "../../SEAR-RL-V4/SEAR_RL_23/SEAR_RL_23/searrl.scnassets"; sourceTree = "<group>"; };
-		31BA906D29C2989A00FCD505 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
-		31BA906E29C2989A00FCD505 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		31BA906F29C2989A00FCD505 /* TestAudioURLs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestAudioURLs.swift; sourceTree = "<group>"; };
-		31BA907129C2989A00FCD505 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		31BA907329C2989A00FCD505 /* stairwell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = stairwell.wav; sourceTree = "<group>"; };
-		31BA907429C2989A00FCD505 /* dish.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dish.wav; sourceTree = "<group>"; };
-		31BA907629C2989A00FCD505 /* Guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Guitar.mp3; sourceTree = "<group>"; };
-		31BA907729C2989A00FCD505 /* clap_D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "clap_D#1.wav"; sourceTree = "<group>"; };
-		31BA907829C2989A00FCD505 /* Bass Synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bass Synth.mp3"; sourceTree = "<group>"; };
-		31BA907929C2989A00FCD505 /* hi_tom_D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hi_tom_D2.wav; sourceTree = "<group>"; };
-		31BA907A29C2989A00FCD505 /* Strings.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Strings.mp3; sourceTree = "<group>"; };
-		31BA907B29C2989A00FCD505 /* alphabet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alphabet.mp3; sourceTree = "<group>"; };
-		31BA907C29C2989A00FCD505 /* mid_tom_B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mid_tom_B1.wav; sourceTree = "<group>"; };
-		31BA907D29C2989A00FCD505 /* beat.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = beat.aiff; sourceTree = "<group>"; };
-		31BA907E29C2989A00FCD505 /* Synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Synth.mp3; sourceTree = "<group>"; };
-		31BA907F29C2989A00FCD505 /* closed_hi_hat_F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "closed_hi_hat_F#1.wav"; sourceTree = "<group>"; };
-		31BA908029C2989A00FCD505 /* bass_drum_C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bass_drum_C1.wav; sourceTree = "<group>"; };
-		31BA908129C2989A00FCD505 /* lo_tom_F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lo_tom_F1.wav; sourceTree = "<group>"; };
-		31BA908229C2989A00FCD505 /* Piano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Piano.mp3; sourceTree = "<group>"; };
-		31BA908329C2989A00FCD505 /* open_hi_hat_A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "open_hi_hat_A#1.wav"; sourceTree = "<group>"; };
-		31BA908429C2989A00FCD505 /* Counting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Counting.mp3; sourceTree = "<group>"; };
-		31BA908529C2989A00FCD505 /* snare_D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = snare_D1.wav; sourceTree = "<group>"; };
-		31BA908729C2989A00FCD505 /* Cookbook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cookbook.swift; sourceTree = "<group>"; };
-		31BA908829C2989A00FCD505 /* PlayerControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerControls.swift; sourceTree = "<group>"; };
-		31BA908929C2989A00FCD505 /* CookbookKnob.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookKnob.swift; sourceTree = "<group>"; };
-		31BA908A29C2989A00FCD505 /* NavigationHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationHelpers.swift; sourceTree = "<group>"; };
-		31BA908B29C2989A00FCD505 /* CookbookKeyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookKeyboard.swift; sourceTree = "<group>"; };
-		31BA908C29C2989A00FCD505 /* ParameterRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParameterRow.swift; sourceTree = "<group>"; };
-		31BA908D29C2989A00FCD505 /* CallbackLoop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CallbackLoop.swift; sourceTree = "<group>"; };
-		31BA908F29C2989A00FCD505 /* Demo.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Demo.mid; sourceTree = "<group>"; };
-		31BA909029C2989A00FCD505 /* 4tracks.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = 4tracks.mid; sourceTree = "<group>"; };
-		31BA909129C2989A00FCD505 /* CookbookCommon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookCommon.swift; sourceTree = "<group>"; };
+		31BA90B429C33FFA00FCD505 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		31BA90B529C33FFA00FCD505 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		31BA90B629C33FFA00FCD505 /* TestAudioURLs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestAudioURLs.swift; sourceTree = "<group>"; };
+		31BA90B829C33FFA00FCD505 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31BA90BA29C33FFA00FCD505 /* stairwell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = stairwell.wav; sourceTree = "<group>"; };
+		31BA90BB29C33FFA00FCD505 /* dish.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dish.wav; sourceTree = "<group>"; };
+		31BA90BD29C33FFA00FCD505 /* Guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Guitar.mp3; sourceTree = "<group>"; };
+		31BA90BE29C33FFA00FCD505 /* clap_D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "clap_D#1.wav"; sourceTree = "<group>"; };
+		31BA90BF29C33FFA00FCD505 /* Bass Synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bass Synth.mp3"; sourceTree = "<group>"; };
+		31BA90C029C33FFA00FCD505 /* hi_tom_D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hi_tom_D2.wav; sourceTree = "<group>"; };
+		31BA90C129C33FFA00FCD505 /* Strings.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Strings.mp3; sourceTree = "<group>"; };
+		31BA90C229C33FFA00FCD505 /* alphabet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alphabet.mp3; sourceTree = "<group>"; };
+		31BA90C329C33FFA00FCD505 /* mid_tom_B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mid_tom_B1.wav; sourceTree = "<group>"; };
+		31BA90C429C33FFA00FCD505 /* beat.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = beat.aiff; sourceTree = "<group>"; };
+		31BA90C529C33FFA00FCD505 /* Synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Synth.mp3; sourceTree = "<group>"; };
+		31BA90C629C33FFA00FCD505 /* closed_hi_hat_F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "closed_hi_hat_F#1.wav"; sourceTree = "<group>"; };
+		31BA90C729C33FFA00FCD505 /* bass_drum_C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bass_drum_C1.wav; sourceTree = "<group>"; };
+		31BA90C829C33FFA00FCD505 /* lo_tom_F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lo_tom_F1.wav; sourceTree = "<group>"; };
+		31BA90C929C33FFA00FCD505 /* Piano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Piano.mp3; sourceTree = "<group>"; };
+		31BA90CA29C33FFA00FCD505 /* open_hi_hat_A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "open_hi_hat_A#1.wav"; sourceTree = "<group>"; };
+		31BA90CB29C33FFA00FCD505 /* Counting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Counting.mp3; sourceTree = "<group>"; };
+		31BA90CC29C33FFA00FCD505 /* snare_D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = snare_D1.wav; sourceTree = "<group>"; };
+		31BA90CE29C33FFA00FCD505 /* Cookbook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cookbook.swift; sourceTree = "<group>"; };
+		31BA90CF29C33FFA00FCD505 /* PlayerControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerControls.swift; sourceTree = "<group>"; };
+		31BA90D029C33FFA00FCD505 /* CookbookKnob.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookKnob.swift; sourceTree = "<group>"; };
+		31BA90D129C33FFA00FCD505 /* NavigationHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationHelpers.swift; sourceTree = "<group>"; };
+		31BA90D229C33FFA00FCD505 /* CookbookKeyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookKeyboard.swift; sourceTree = "<group>"; };
+		31BA90D329C33FFA00FCD505 /* ParameterRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParameterRow.swift; sourceTree = "<group>"; };
+		31BA90D429C33FFA00FCD505 /* CallbackLoop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CallbackLoop.swift; sourceTree = "<group>"; };
+		31BA90D629C33FFA00FCD505 /* Demo.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = Demo.mid; sourceTree = "<group>"; };
+		31BA90D729C33FFA00FCD505 /* 4tracks.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = 4tracks.mid; sourceTree = "<group>"; };
+		31BA90D829C33FFA00FCD505 /* CookbookCommon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CookbookCommon.swift; sourceTree = "<group>"; };
+		31BA90D929C33FFA00FCD505 /* searrl.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = searrl.scnassets; path = AudioKit3DDemo/searrl.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +149,8 @@
 		31BA8FDE29C2922E00FCD505 = {
 			isa = PBXGroup;
 			children = (
+				31BA90B329C33FFA00FCD505 /* CookbookCommon */,
+				31BA90D929C33FFA00FCD505 /* searrl.scnassets */,
 				31BA8FE929C2922E00FCD505 /* AudioKit3DDemo */,
 				31BA8FFA29C2922F00FCD505 /* AudioKit3DDemoTests */,
 				31BA900429C2922F00FCD505 /* AudioKit3DDemoUITests */,
@@ -169,8 +171,6 @@
 		31BA8FE929C2922E00FCD505 /* AudioKit3DDemo */ = {
 			isa = PBXGroup;
 			children = (
-				31BA906C29C2989A00FCD505 /* CookbookCommon */,
-				31BA906B29C2989A00FCD505 /* searrl.scnassets */,
 				31BA8FEA29C2922E00FCD505 /* AudioKit3DDemoApp.swift */,
 				31BA8FEC29C2922E00FCD505 /* AudioKit3DView.swift */,
 				31BA8FEE29C2922F00FCD505 /* Assets.xcassets */,
@@ -204,82 +204,82 @@
 			path = AudioKit3DDemoUITests;
 			sourceTree = "<group>";
 		};
-		31BA906C29C2989A00FCD505 /* CookbookCommon */ = {
+		31BA90B329C33FFA00FCD505 /* CookbookCommon */ = {
 			isa = PBXGroup;
 			children = (
-				31BA906D29C2989A00FCD505 /* Colors.xcassets */,
-				31BA906E29C2989A00FCD505 /* Assets.xcassets */,
-				31BA906F29C2989A00FCD505 /* TestAudioURLs.swift */,
-				31BA907029C2989A00FCD505 /* Preview Content */,
-				31BA907229C2989A00FCD505 /* Impulse Responses */,
-				31BA907529C2989A00FCD505 /* Samples */,
-				31BA908629C2989A00FCD505 /* Reusable Components */,
-				31BA908D29C2989A00FCD505 /* CallbackLoop.swift */,
-				31BA908E29C2989A00FCD505 /* MIDI Files */,
-				31BA909129C2989A00FCD505 /* CookbookCommon.swift */,
+				31BA90B429C33FFA00FCD505 /* Colors.xcassets */,
+				31BA90B529C33FFA00FCD505 /* Assets.xcassets */,
+				31BA90B629C33FFA00FCD505 /* TestAudioURLs.swift */,
+				31BA90B729C33FFA00FCD505 /* Preview Content */,
+				31BA90B929C33FFA00FCD505 /* Impulse Responses */,
+				31BA90BC29C33FFA00FCD505 /* Samples */,
+				31BA90CD29C33FFA00FCD505 /* Reusable Components */,
+				31BA90D429C33FFA00FCD505 /* CallbackLoop.swift */,
+				31BA90D529C33FFA00FCD505 /* MIDI Files */,
+				31BA90D829C33FFA00FCD505 /* CookbookCommon.swift */,
 			);
 			name = CookbookCommon;
-			path = "../../SEAR-RL-V4/SEAR_RL_23/SEAR_RL_23/CookbookCommon";
+			path = AudioKit3DDemo/CookbookCommon;
 			sourceTree = "<group>";
 		};
-		31BA907029C2989A00FCD505 /* Preview Content */ = {
+		31BA90B729C33FFA00FCD505 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				31BA907129C2989A00FCD505 /* Preview Assets.xcassets */,
+				31BA90B829C33FFA00FCD505 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		31BA907229C2989A00FCD505 /* Impulse Responses */ = {
+		31BA90B929C33FFA00FCD505 /* Impulse Responses */ = {
 			isa = PBXGroup;
 			children = (
-				31BA907329C2989A00FCD505 /* stairwell.wav */,
-				31BA907429C2989A00FCD505 /* dish.wav */,
+				31BA90BA29C33FFA00FCD505 /* stairwell.wav */,
+				31BA90BB29C33FFA00FCD505 /* dish.wav */,
 			);
 			path = "Impulse Responses";
 			sourceTree = "<group>";
 		};
-		31BA907529C2989A00FCD505 /* Samples */ = {
+		31BA90BC29C33FFA00FCD505 /* Samples */ = {
 			isa = PBXGroup;
 			children = (
-				31BA907629C2989A00FCD505 /* Guitar.mp3 */,
-				31BA907729C2989A00FCD505 /* clap_D#1.wav */,
-				31BA907829C2989A00FCD505 /* Bass Synth.mp3 */,
-				31BA907929C2989A00FCD505 /* hi_tom_D2.wav */,
-				31BA907A29C2989A00FCD505 /* Strings.mp3 */,
-				31BA907B29C2989A00FCD505 /* alphabet.mp3 */,
-				31BA907C29C2989A00FCD505 /* mid_tom_B1.wav */,
-				31BA907D29C2989A00FCD505 /* beat.aiff */,
-				31BA907E29C2989A00FCD505 /* Synth.mp3 */,
-				31BA907F29C2989A00FCD505 /* closed_hi_hat_F#1.wav */,
-				31BA908029C2989A00FCD505 /* bass_drum_C1.wav */,
-				31BA908129C2989A00FCD505 /* lo_tom_F1.wav */,
-				31BA908229C2989A00FCD505 /* Piano.mp3 */,
-				31BA908329C2989A00FCD505 /* open_hi_hat_A#1.wav */,
-				31BA908429C2989A00FCD505 /* Counting.mp3 */,
-				31BA908529C2989A00FCD505 /* snare_D1.wav */,
+				31BA90BD29C33FFA00FCD505 /* Guitar.mp3 */,
+				31BA90BE29C33FFA00FCD505 /* clap_D#1.wav */,
+				31BA90BF29C33FFA00FCD505 /* Bass Synth.mp3 */,
+				31BA90C029C33FFA00FCD505 /* hi_tom_D2.wav */,
+				31BA90C129C33FFA00FCD505 /* Strings.mp3 */,
+				31BA90C229C33FFA00FCD505 /* alphabet.mp3 */,
+				31BA90C329C33FFA00FCD505 /* mid_tom_B1.wav */,
+				31BA90C429C33FFA00FCD505 /* beat.aiff */,
+				31BA90C529C33FFA00FCD505 /* Synth.mp3 */,
+				31BA90C629C33FFA00FCD505 /* closed_hi_hat_F#1.wav */,
+				31BA90C729C33FFA00FCD505 /* bass_drum_C1.wav */,
+				31BA90C829C33FFA00FCD505 /* lo_tom_F1.wav */,
+				31BA90C929C33FFA00FCD505 /* Piano.mp3 */,
+				31BA90CA29C33FFA00FCD505 /* open_hi_hat_A#1.wav */,
+				31BA90CB29C33FFA00FCD505 /* Counting.mp3 */,
+				31BA90CC29C33FFA00FCD505 /* snare_D1.wav */,
 			);
 			path = Samples;
 			sourceTree = "<group>";
 		};
-		31BA908629C2989A00FCD505 /* Reusable Components */ = {
+		31BA90CD29C33FFA00FCD505 /* Reusable Components */ = {
 			isa = PBXGroup;
 			children = (
-				31BA908729C2989A00FCD505 /* Cookbook.swift */,
-				31BA908829C2989A00FCD505 /* PlayerControls.swift */,
-				31BA908929C2989A00FCD505 /* CookbookKnob.swift */,
-				31BA908A29C2989A00FCD505 /* NavigationHelpers.swift */,
-				31BA908B29C2989A00FCD505 /* CookbookKeyboard.swift */,
-				31BA908C29C2989A00FCD505 /* ParameterRow.swift */,
+				31BA90CE29C33FFA00FCD505 /* Cookbook.swift */,
+				31BA90CF29C33FFA00FCD505 /* PlayerControls.swift */,
+				31BA90D029C33FFA00FCD505 /* CookbookKnob.swift */,
+				31BA90D129C33FFA00FCD505 /* NavigationHelpers.swift */,
+				31BA90D229C33FFA00FCD505 /* CookbookKeyboard.swift */,
+				31BA90D329C33FFA00FCD505 /* ParameterRow.swift */,
 			);
 			path = "Reusable Components";
 			sourceTree = "<group>";
 		};
-		31BA908E29C2989A00FCD505 /* MIDI Files */ = {
+		31BA90D529C33FFA00FCD505 /* MIDI Files */ = {
 			isa = PBXGroup;
 			children = (
-				31BA908F29C2989A00FCD505 /* Demo.mid */,
-				31BA909029C2989A00FCD505 /* 4tracks.mid */,
+				31BA90D629C33FFA00FCD505 /* Demo.mid */,
+				31BA90D729C33FFA00FCD505 /* 4tracks.mid */,
 			);
 			path = "MIDI Files";
 			sourceTree = "<group>";
@@ -400,32 +400,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				31BA909229C2989A00FCD505 /* searrl.scnassets in Resources */,
-				31BA909329C2989A00FCD505 /* Colors.xcassets in Resources */,
-				31BA909D29C2989A00FCD505 /* Strings.mp3 in Resources */,
-				31BA90A629C2989A00FCD505 /* open_hi_hat_A#1.wav in Resources */,
+				31BA90DF29C33FFA00FCD505 /* dish.wav in Resources */,
+				31BA90DA29C33FFA00FCD505 /* Colors.xcassets in Resources */,
 				31BA8FF229C2922F00FCD505 /* Preview Assets.xcassets in Resources */,
-				31BA90B129C2989A00FCD505 /* 4tracks.mid in Resources */,
-				31BA90A829C2989A00FCD505 /* snare_D1.wav in Resources */,
-				31BA909929C2989A00FCD505 /* Guitar.mp3 in Resources */,
-				31BA90B029C2989A00FCD505 /* Demo.mid in Resources */,
+				31BA90E629C33FFA00FCD505 /* mid_tom_B1.wav in Resources */,
+				31BA90E929C33FFA00FCD505 /* closed_hi_hat_F#1.wav in Resources */,
+				31BA90DD29C33FFA00FCD505 /* Preview Assets.xcassets in Resources */,
+				31BA90E029C33FFA00FCD505 /* Guitar.mp3 in Resources */,
+				31BA90EE29C33FFA00FCD505 /* Counting.mp3 in Resources */,
+				31BA90E729C33FFA00FCD505 /* beat.aiff in Resources */,
+				31BA90E229C33FFA00FCD505 /* Bass Synth.mp3 in Resources */,
+				31BA90E129C33FFA00FCD505 /* clap_D#1.wav in Resources */,
+				31BA90F829C33FFA00FCD505 /* 4tracks.mid in Resources */,
+				31BA90E329C33FFA00FCD505 /* hi_tom_D2.wav in Resources */,
+				31BA90DB29C33FFA00FCD505 /* Assets.xcassets in Resources */,
+				31BA90FA29C33FFA00FCD505 /* searrl.scnassets in Resources */,
+				31BA90F729C33FFA00FCD505 /* Demo.mid in Resources */,
+				31BA90DE29C33FFA00FCD505 /* stairwell.wav in Resources */,
+				31BA90ED29C33FFA00FCD505 /* open_hi_hat_A#1.wav in Resources */,
 				31BA8FEF29C2922F00FCD505 /* Assets.xcassets in Resources */,
-				31BA90A329C2989A00FCD505 /* bass_drum_C1.wav in Resources */,
-				31BA909A29C2989A00FCD505 /* clap_D#1.wav in Resources */,
-				31BA909C29C2989A00FCD505 /* hi_tom_D2.wav in Resources */,
-				31BA909829C2989A00FCD505 /* dish.wav in Resources */,
-				31BA90A729C2989A00FCD505 /* Counting.mp3 in Resources */,
-				31BA90A029C2989A00FCD505 /* beat.aiff in Resources */,
-				31BA90A229C2989A00FCD505 /* closed_hi_hat_F#1.wav in Resources */,
-				31BA90A529C2989A00FCD505 /* Piano.mp3 in Resources */,
-				31BA909629C2989A00FCD505 /* Preview Assets.xcassets in Resources */,
-				31BA90A429C2989A00FCD505 /* lo_tom_F1.wav in Resources */,
-				31BA909429C2989A00FCD505 /* Assets.xcassets in Resources */,
-				31BA909F29C2989A00FCD505 /* mid_tom_B1.wav in Resources */,
-				31BA909E29C2989A00FCD505 /* alphabet.mp3 in Resources */,
-				31BA90A129C2989A00FCD505 /* Synth.mp3 in Resources */,
-				31BA909B29C2989A00FCD505 /* Bass Synth.mp3 in Resources */,
-				31BA909729C2989A00FCD505 /* stairwell.wav in Resources */,
+				31BA90EC29C33FFA00FCD505 /* Piano.mp3 in Resources */,
+				31BA90EF29C33FFA00FCD505 /* snare_D1.wav in Resources */,
+				31BA90E829C33FFA00FCD505 /* Synth.mp3 in Resources */,
+				31BA90EA29C33FFA00FCD505 /* bass_drum_C1.wav in Resources */,
+				31BA90EB29C33FFA00FCD505 /* lo_tom_F1.wav in Resources */,
+				31BA90E429C33FFA00FCD505 /* Strings.mp3 in Resources */,
+				31BA90E529C33FFA00FCD505 /* alphabet.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -450,17 +450,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				31BA90A929C2989A00FCD505 /* Cookbook.swift in Sources */,
-				31BA90B229C2989A00FCD505 /* CookbookCommon.swift in Sources */,
-				31BA90AD29C2989A00FCD505 /* CookbookKeyboard.swift in Sources */,
-				31BA90AC29C2989A00FCD505 /* NavigationHelpers.swift in Sources */,
+				31BA90F029C33FFA00FCD505 /* Cookbook.swift in Sources */,
+				31BA90F929C33FFA00FCD505 /* CookbookCommon.swift in Sources */,
+				31BA90F429C33FFA00FCD505 /* CookbookKeyboard.swift in Sources */,
+				31BA90F329C33FFA00FCD505 /* NavigationHelpers.swift in Sources */,
 				31BA906A29C2986A00FCD505 /* AudioKit3DView.swift in Sources */,
-				31BA90AF29C2989A00FCD505 /* CallbackLoop.swift in Sources */,
-				31BA90AB29C2989A00FCD505 /* CookbookKnob.swift in Sources */,
-				31BA909529C2989A00FCD505 /* TestAudioURLs.swift in Sources */,
-				31BA90AE29C2989A00FCD505 /* ParameterRow.swift in Sources */,
+				31BA90F629C33FFA00FCD505 /* CallbackLoop.swift in Sources */,
+				31BA90F229C33FFA00FCD505 /* CookbookKnob.swift in Sources */,
+				31BA90DC29C33FFA00FCD505 /* TestAudioURLs.swift in Sources */,
+				31BA90F529C33FFA00FCD505 /* ParameterRow.swift in Sources */,
 				31BA8FEB29C2922E00FCD505 /* AudioKit3DDemoApp.swift in Sources */,
-				31BA90AA29C2989A00FCD505 /* PlayerControls.swift in Sources */,
+				31BA90F129C33FFA00FCD505 /* PlayerControls.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
