@@ -89,6 +89,7 @@ class AudioEngine3DConductor: ObservableObject, ProcessesPlayerInput, UpdateAudi
 	}
 
 	func updateSoundSourcePosition(_ position3D: AVAudio3DPoint) {
+        print(position3D)
 		source1mixer3D.position = position3D
 	}
 
@@ -125,10 +126,10 @@ class SceneCoordinator: NSObject, SCNSceneRendererDelegate, ObservableObject {
 		if let pointOfView = renderer.pointOfView,
 		   let soundSource = renderer.scene?.rootNode.childNode(withName: "soundSource", recursively: true) {
 
-			updateAudioSourceNodeDelegate?.updateSoundSourcePosition(AVAudio3DPoint(
-				x: soundSource.position.x,
-				y: soundSource.position.y,
-				z: soundSource.position.z))
+            updateAudioSourceNodeDelegate?.updateSoundSourcePosition(AVAudio3DPoint(
+                x: soundSource.presentation.worldPosition.x,
+                y: soundSource.presentation.worldPosition.y,
+                z: soundSource.presentation.worldPosition.z))
 
 			updateAudioSourceNodeDelegate?.updateListenerPosition3D(AVAudio3DPoint(
 				x: pointOfView.position.x,
